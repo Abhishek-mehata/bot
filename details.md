@@ -1,0 +1,8 @@
+Esp32 board url:
+https://dl.espressif.com/dl/package_esp32_index.json
+
+AsyncTCP Library:
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEtmRXQzNXBQX0VEODl2Q3JULUxQTGJHQ08xUXxBQ3Jtc0tuNnpQVnl0Z3ppLU93a2JUQ3pCTTVaOGd3czZGQzJ1cnN4YVVESVEyV2NBZmNfZkRPNDJfVEJURVhDZFdwU2thNjBKNXhxTjRydHhVd3JBSnBtbzRsT1dZUklnUUZfY1FIYmJIWk1nNGRiWDN1TW1CYw&q=https%3A%2F%2Fgithub.com%2Fme-no-dev%2FAsyncTCP%2Farchive%2Frefs%2Fheads%2Fmaster.zip&v=L8h1orNQ56k
+
+ESPAsyncWebServer Library:
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmpoUVo1VUhqTDlzeXlqUVBuU1dSZkgtMldBQXxBQ3Jtc0tsNEEyVnFPNVUzbkE1VVVMQ0xWRm5fbmFmYlk0U01aTFNvWGw5ajZBR1h4a3BHeGpoRDJWY050SXFKWUctb2NvSkNyWFVaeUFOYWNKNmpxWG5kVTBxRDRzMmd6a3lraWE2WFduWVpnUkgyeTB1YVJwaw&q=https%3A%2F%2Fgithub.com%2Fme-no-dev%2FESPAsyncWebServer%2Farchive%2Frefs%2Fheads%2Fmaster.zip&v=L8h1orNQ56k
