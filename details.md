@@ -10,14 +10,25 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmp
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //
-//👉 ESP32 board URL:
-//https://dl.espressif.com/dl/package_esp32_index.json
-//
-//👉 AsyncTCP Library:
-//https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGtSaFVldWlCTlRNMUc1MDR1NHNSQVdhRnQ2UXxBQ3Jtc0ttVWVRV2RGYkpoVjE1WTdfSjBjMVpEVC1ENE1IVmxKSFV3QkxnR0VJMWZVeFlVOGptbEZ0QmhwRHdnQVd2Vlk1YTlUYWhPM2N3ZkNBU1NGY181UXFuTlJvQmJ5TW5acTJkUDhLbmhKRWRvNDhaSWlqUQ&q=https%3A%2F%2Fgithub.com%2Fme-no-dev%2FAsyncTCP%2Farchive%2Frefs%2Fheads%2Fmaster.zip&v=L8h1orNQ56k
-//
-//👉 ESPAsyncWebServer Library:
-//https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTJwRXB0dHB1WTlnQjlpTy1DaGljN2NLLVVmQXxBQ3Jtc0tuUDN5WDUxSFN1VDdRS0ItWnhZQ1RHN3N5bkJKeWUtQ2pjYkMwQTlUT19BdlY2STRwbnBmQUpoVFVQUkpVX1psTl9tNWdjSDFxZkxISHI0UzQtN3ViRDdaS1ZwQW1mVEh3cVJxOTBVc2pFZ0VBUVJwQQ&q=https%3A%2F%2Fgithub.com%2Fme-no-dev%2FESPAsyncWebServer%2Farchive%2Frefs%2Fheads%2Fmaster.zip&v=L8h1orNQ56k
+```
+👉 ESP32 board URL:
+https://dl.espressif.com/dl/package_esp32_index.json
+```
+---
+```
+
+👉 AsyncTCP Library:
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGtSaFVldWlCTlRNMUc1MDR1NHNSQVdhRnQ2UXxBQ3Jtc0ttVWVRV2RGYkpoVjE1WTdfSjBjMVpEVC1ENE1IVmxKSFV3QkxnR0VJMWZVeFlVOGptbEZ0QmhwRHdnQVd2Vlk1YTlUYWhPM2N3ZkNBU1NGY181UXFuTlJvQmJ5TW5acTJkUDhLbmhKRWRvNDhaSWlqUQ&q=https%3A%2F%2Fgithub.com%2Fme-no-dev%2FAsyncTCP%2Farchive%2Frefs%2Fheads%2Fmaster.zip&v=L8h1orNQ56k
+```
+---
+
+```
+
+👉 ESPAsyncWebServer Library:
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTJwRXB0dHB1WTlnQjlpTy1DaGljN2NLLVVmQXxBQ3Jtc0tuUDN5WDUxSFN1VDdRS0ItWnhZQ1RHN3N5bkJKeWUtQ2pjYkMwQTlUT19BdlY2STRwbnBmQUpoVFVQUkpVX1psTl9tNWdjSDFxZkxISHI0UzQtN3ViRDdaS1ZwQW1mVEh3cVJxOTBVc2pFZ0VBUVJwQQ&q=https%3A%2F%2Fgithub.com%2Fme-no-dev%2FESPAsyncWebServer%2Farchive%2Frefs%2Fheads%2Fmaster.zip&v=L8h1orNQ56k
+
+```
+
 //
 //
 //Step1: Install ESP board.
