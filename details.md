@@ -28,15 +28,22 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGt
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTJwRXB0dHB1WTlnQjlpTy1DaGljN2NLLVVmQXxBQ3Jtc0tuUDN5WDUxSFN1VDdRS0ItWnhZQ1RHN3N5bkJKeWUtQ2pjYkMwQTlUT19BdlY2STRwbnBmQUpoVFVQUkpVX1psTl9tNWdjSDFxZkxISHI0UzQtN3ViRDdaS1ZwQW1mVEh3cVJxOTBVc2pFZ0VBUVJwQQ&q=https%3A%2F%2Fgithub.com%2Fme-no-dev%2FESPAsyncWebServer%2Farchive%2Frefs%2Fheads%2Fmaster.zip&v=L8h1orNQ56k
 
 ```
+-----
 
-//
-//
-//Step1: Install ESP board.
-//-----------Go to 'file' >'preferences' > 'Additional Board Manager URL's' and paste :'https://dl.espressif.com/dl/package_esp32_index.json'
-//
-//Step2: Install ESP32 Library:
-//----------Go to 'Tools' > 'Board' >'Boards Manager' and Search for 'ESP32' and download latest varsion provided by 'expressif systems'
+```
+Step1: Install ESP board.
+-----------Go to 'file' >'preferences' > 'Additional Board Manager URL's' and paste :'https://dl.espressif.com/dl/package_esp32_index.json'
+```
+--------
 
+
+```
+
+Step2: Install ESP32 Library:
+----------Go to 'Tools' > 'Board' >'Boards Manager' and Search for 'ESP32' and download latest varsion provided by 'expressif systems'
+
+```
+----
 //Step3:include AcyncTCP Library from the given url inside working direcroty
 //-----------Install the library from Link.
 //----------- Go to 'Sketch' > 'Include Library' > 'Add .zip Library' and add the zip file of the library.
